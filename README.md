@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=F0F&center=true&vCenter=true&width=600&lines=Flutter%20Developer;Learning%20New%20Tech;Open%20Source%20Contributor" alt="Glitch Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=F0F&center=true&vCenter=true&width=600&lines=Web%20Developer;Learning%20New%20Tech;Open%20Source%20Contributor" alt="Glitch Typing SVG" />
 </div>
 
 ---
